@@ -1,0 +1,1 @@
+../SC1000/BusDevMgr/ttyResource.c

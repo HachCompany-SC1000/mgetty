@@ -1,2 +1,0 @@
-# mgetty
-mgetty modem contol
